@@ -26,7 +26,8 @@ A simple package with no practical use
 Features
 --------
 
-* TODO
+* hello()
+A simple greeting from Medzibrod, Slovakia
 
 Credits
 -------
